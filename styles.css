@@ -1,0 +1,59 @@
+html {
+    display: table;
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background: url(https://img.freepik.com/premium-photo/view-from-variety-filipino-cuisine-dishes_109656-1666.jpg?w=1800)
+}
+
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    display: table-cell;
+    vertical-align: middle;
+    max-width: 800px;
+    margin: auto;
+ 
+}
+
+a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+    border-radius: 3px;
+}
+      
+a:hover {
+    background-color: lightslategray;
+    color: gold;
+}
+      
+.home-btn {
+    background-color: gold;
+    color: black;
+}
+
+.main-body {
+    background-color: #B2BEB5;
+    border: 5px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 22px;
+}
+
+h1 {
+    font-size: 50px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    text-decoration: underline;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.center {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+}
+
+
